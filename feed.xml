@@ -6,9 +6,22 @@
 </description>
     <link>http://fumuzhe.com/</link>
     <atom:link href="http://fumuzhe.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Jan 2015 20:21:20 +0800</pubDate>
-    <lastBuildDate>Thu, 01 Jan 2015 20:21:20 +0800</lastBuildDate>
-    <generator>Jekyll v2.5.2</generator>
+    <pubDate>Fri, 13 Feb 2015 17:05:57 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Feb 2015 17:05:57 +0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>#1 父母者與生產力</title>
+        <description>&lt;p&gt;歡迎來到父母者&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Feb 2015 01:00:11 +0800</pubDate>
+        <link>http://fumuzhe.com/podcast/2015/02/14/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://fumuzhe.com/podcast/2015/02/14/welcome-to-jekyll.html</guid>
+        
+        
+        <category>podcast</category>
+        
+      </item>
     
   </channel>
 </rss>
